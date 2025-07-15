@@ -4,4 +4,4 @@ langchain-core==0.2.39
 langchain-community==0.2.12
 git+https://github.com/langchain-ai/langchain-groq.git
 pandas==2.0.2
-python-dotenv
+python-dotenv==1.0.1
